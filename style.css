@@ -13,19 +13,13 @@ html,body {
     width: 100%;
 }
 
-/* #bg{
-    height: 100%;
+#bg{
+    height: 122%;
     width: 100%;
     background-image: url(./bg.webp);
     background-size: cover;
-} */
-#bg {
-    background-color: red;
-    width: 800px;
-    height: 800px;
-    padding: 10px;
-    margin: 10px;
 }
+
 h1{
     position: absolute;
     top: 50%;
@@ -34,7 +28,8 @@ h1{
     font-family: 'Khula', sans-serif;
     font-family: 'Nova Square', sans-serif;
     font-weight: 800;
-    font-size: 190px;
+    font-size: 110px;
     color: #fff;
     mix-blend-mode: difference;
+
 }
