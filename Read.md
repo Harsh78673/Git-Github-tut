@@ -21,6 +21,8 @@ First aap [github.com](https://github.com) pe jake ek new repositary bnao then j
 
 - Sixth command hai: `git push -u origin main` means jo maine main branch bnai thi mai usme code ke saare changes push krna chahta hu.
 
+> ***Important info:-*** Kuch bhi commit krne ke baad `git push -u origin main` ye push command run krni jruri hai tab hi sara kuch github pe push hoga
+
     - There are two things push and pull in github. ***git pull*** ka matlab hai ki mai main branch se sara code apne laptop me lena chahta hu.
     And ***git push*** ka matlab hai ki maine project me jo kaam kiya hi mai usko github pe main branch me bhejna chahta hu. 
 
@@ -29,5 +31,7 @@ First aap [github.com](https://github.com) pe jake ek new repositary bnao then j
 >
 > Iske baad apko image ko bhi jpg se webp me convert krna hai to make it light.
 
-#### Ab sara kuch compelete ho gaya hai jab aap github ko upload kro ge to apko is project ki sari files waha pe mil jayengi.
+#### Ab sara kuch compelete ho gaya hai jab aap github ko reload kro ge to apko is project ki sari files waha pe mil jayengi.
+
+
 
