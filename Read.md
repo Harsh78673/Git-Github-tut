@@ -21,7 +21,7 @@ First aap [github.com](https://github.com) pe jake ek new repositary bnao then j
 
 - Sixth command hai: `git push -u origin main` means jo maine main branch bnai thi mai usme code ke saare changes push krna chahta hu.
 
-> ***Important info:-*** Kuch bhi edit krne ke baad `git add .` git add all run kro then commit kro fir iske baad `git push -u origin main` command run kro ye command run krni jruri hai iske run hone ke baad hi sara kuch github pe push hoga.
+> ***Important info:-*** Kuch bhi edit krne ke baad `git add .` git add all run kro then commit kro `git commit -m"changes here"` fir iske baad `git push -u origin main` command run kro ye command run krni jruri hai iske run hone ke baad hi sara kuch github pe push hoga.
 
     - There are two things push and pull in github. ***git pull*** ka matlab hai ki mai main branch se sara code apne laptop me lena chahta hu.
     And ***git push*** ka matlab hai ki maine project me jo kaam kiya hi mai usko github pe main branch me bhejna chahta hu. 
@@ -29,9 +29,14 @@ First aap [github.com](https://github.com) pe jake ek new repositary bnao then j
 ---
 > Now hum font ko light bnayenge normal font 'ttf' vala hota hai joki heavy hot ahai hum usko 'woff2' me convert krenge jo ki vary light hota hai. To do this humko google pe search krna hai ttf to woff2 fir waha pe apko apna ttf wala font upload krna hai and fir waha se woff2 wala download krna hai convert hone k baad. 
 >
-> Iske baad apko image ko bhi jpg se webp me convert krna hai to make it light.
+> Iske baad apko image ko bhi jpg se webp me convert krna hai to make it light. Image ko convert krne k liye bhi same site pe hi jana hai jaha se humne font convert kiya tha site ka link ye hai: **[cloudconverter.com](https://cloudconvert.com/)**.
 
-#### Ab sara kuch compelete ho gaya hai jab aap github ko reload kro ge to apko is project ki sari files waha pe mil jayengi.
+#### Ab sara kuch compelete ho gaya hai jab aap github ko reload kro ge to apko is project ka sara code waha pe mil jayengi.
 
+# Ab hum iss project ko github se host karenge.
+
+ Isme hume ek baat ka dhyaan rkhan hai ki hmari main html file ka name index.html hi hona chahiye isko yaha pe host krne k liye.
+
+- Ab apko is project ke github ki settings me jana hai. Fir pages pe jana hai. Ab apko pages k andar branch me none ko main krkr save kr dena hai. Iske baad page reload hoga and then humko kuch der wait krna hoga fir 10 to 15 minutes ke baad page upload krna hoga fir hmara ye project live ho jayega.
 
 
