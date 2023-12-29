@@ -21,7 +21,7 @@ First aap [github.com](https://github.com) pe jake ek new repositary bnao then j
 
 - Sixth command hai: `git push -u origin main` means jo maine main branch bnai thi mai usme code ke saare changes push krna chahta hu.
 
-> ***Important info:-*** Kuch bhi commit krne ke baad `git push -u origin main` ye push command run krni jruri hai tab hi sara kuch github pe push hoga
+> ***Important info:-*** Kuch bhi edit krne ke baad `git add .` git add all run kro then commit kro fir iske baad `git push -u origin main` command run kro ye command run krni jruri hai iske run hone ke baad hi sara kuch github pe push hoga.
 
     - There are two things push and pull in github. ***git pull*** ka matlab hai ki mai main branch se sara code apne laptop me lena chahta hu.
     And ***git push*** ka matlab hai ki maine project me jo kaam kiya hi mai usko github pe main branch me bhejna chahta hu. 
