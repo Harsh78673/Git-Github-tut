@@ -25,7 +25,9 @@ First aap [github.com](https://github.com) pe jake ek new repositary bnao then j
     And ***git push*** ka matlab hai ki maine project me jo kaam kiya hi mai usko github pe main branch me bhejna chahta hu. 
 
 ---
-> Now hum font ko light bnayenge normal font 'ttf' vala hota hai joki heavy hot ahai hum usko 'woff2' me convert krenge jo ki vary light hota hai. To do this humko google pe search krna hai ttf to woff2 fir waha pe apko apna ttf wala font upload krna hai and fir waha se woff2 wala download krna hai convert hone k baad
+> Now hum font ko light bnayenge normal font 'ttf' vala hota hai joki heavy hot ahai hum usko 'woff2' me convert krenge jo ki vary light hota hai. To do this humko google pe search krna hai ttf to woff2 fir waha pe apko apna ttf wala font upload krna hai and fir waha se woff2 wala download krna hai convert hone k baad. 
+>
+> Iske baad apko image ko bhi jpg se webp me convert krna hai to make it light.
 
 #### Ab sara kuch compelete ho gaya hai jab aap github ko upload kro ge to apko is project ki sari files waha pe mil jayengi.
 
